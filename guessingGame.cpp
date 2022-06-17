@@ -9,8 +9,8 @@
 
 int main() {
     // this function calculates the area and perimeter inputted by user
-    int numberFromUser;
     const int NUMBER = 4;
+    int numberFromUser;
 
     // input
     std::cout << "Enter a number between 0-9: ";
